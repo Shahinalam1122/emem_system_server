@@ -3,7 +3,7 @@
     --primary: #2878EB;
     --secondary: #753bd3af;
     --light: #ECF4FF;
-    --dark: #120F2D;
+    --dark: #120F2D ;
 }
 
 [class^=flaticon-]:before,
@@ -281,3 +281,34 @@ h6,
     border-color: transparent #D34351 #D34351 transparent;
     z-index: -1;
 }
+/* map */
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  /* Form */
+  text1-form{
+    text-align: center;
+  }
+
+
+  /* pabx */
+  /*  */
+  /* @media (max-width:570px){
+    .pabx-1{
+        width: 80px;
+        height: 20px;
+    }
+  } */
+
+  /* Home smart automation */
+  
