@@ -18,10 +18,10 @@ include("site/layouts/navbar.php");
             <div class="carousel-item active">
                 <img class="w-100" src="img/laptopHero.png" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                    <div class="p-3" style="max-width: 900px;">
+                    <div class="p-3" style="max-width: 1100px;">
                         <h5 class="text-white text-uppercase animated bounceInDown"></h5>
-                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">DURABOOK Rugged Computers</h1>
-                        <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
+                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">PANASONIC & DURABOOK Rugged Computers</h1>
+                        <a href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
                         <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                     </div>
                 </div>

@@ -20,7 +20,7 @@
                                 <span class="text-light px-2">|</span>
                                 <span class="text-light text-uppercase">Web Design</span>
                             </div>
-                            <a class="h3 m-0 text-white" href="">Kasd dolor lorem sit justo rebum stet justo elitr dolor amet sit</a>
+                            <a class="h3 m-0 text-white" href="blog_detail.php">Kasd dolor lorem sit justo rebum stet justo elitr dolor amet sit</a>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                                 <span class="text-light px-2">|</span>
                                 <span class="text-light text-uppercase">Web Design</span>
                             </div>
-                            <a class="h3 m-0 text-white" href="">Kasd dolor lorem sit justo rebum stet justo elitr dolor amet sit</a>
+                            <a class="h3 m-0 text-white" href="blog_detail.php">Kasd dolor lorem sit justo rebum stet justo elitr dolor amet sit</a>
                         </div>
                     </div>
                 </div>

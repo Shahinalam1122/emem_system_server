@@ -1,4 +1,4 @@
-<div class="container-fluid py-5 wow fadeInUp text-center" data-wow-delay="0.1s">
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
   <div class="container">
     <!-- cameras -->
     <div class="cameras">
@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="titlepage text_align_center">
-              <h2>OUR PHONES</h2>
+              <h2 style="text-align:center;margin-bottom:60px;">OUR PHONES</h2>
             </div>
           </div>
         </div>
@@ -157,5 +157,6 @@
         </div>
       </div>
     </div>
+    <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
   </div>
 </div>

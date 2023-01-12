@@ -319,6 +319,7 @@ include("site/layouts/header.php");
                     </div>
 
                 </div>
+                <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
             </div>
             <br>
         </section>

@@ -3,14 +3,14 @@
         <h1 class="text-uppercase text-center">OUR BRANDS</h1><br>
         <div class=" pabx-0 py-3">
             <div class="me-3 pabx-1 ">
-                <a href="https://panasonic.net/cns/psn/products/hdvc/" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">HD Visual Communication</a>
+                <a href="https://panasonic.net/cns/psn/products/hdvc/" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">HD Visual Communication</a>
 
             </div>
             <div class="mx-3 pabx-1">
-                <a href="video_panasonic.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
+                <a href="video_conference_panasonic.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
             </div>
             <div class="mx-3 pabx-1">
-                <a href="video_ict.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">ITC Tech </a>
+                <a href="video_conference_ict.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">ITC Tech </a>
             </div>
             <div class="mx-3 pabx-1">
                 <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Other</a>
@@ -99,5 +99,6 @@
 
 
         </div>
+        <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
     </div>
 </section>

@@ -51,16 +51,16 @@
                 <h1 class="text-uppercase text-center">Audio Visual</h1><br>
                 <div class=" pabx-0 py-3">
                     <div class="mx-3 pabx-1">
-                        <a href="PA_amplifier.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">PA Amplifier</a>
+                        <a href="PA_amplifier.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">PA Amplifier</a>
                     </div>
                     <div class="mx-3 pabx-1">
-                        <a href="PA_speaker.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">PA Speaker</a>
+                        <a href="PA_speaker.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">PA Speaker</a>
                     </div>
                     <div class="mx-3 pabx-1">
-                        <a href="PA_analog.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Analog PA System</a>
+                        <a href="PA_analog.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Analog PA System</a>
                     </div>
                     <div class="mx-3 pabx-1">
-                        <a href="PA_ip_intercom.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">IP PA/Intercom</a>
+                        <a href="PA_ip_intercom.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">IP PA/Intercom</a>
                     </div>
                         
                         <div class="mx-3 pabx-1">
@@ -72,7 +72,7 @@
             </div>
         </section>
         <br>
-    <div class="container-fluid py-5 wow fadeInUp text-center" data-wow-delay="0.1s">
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
              <!-- cameras -->
           <div class="cameras">
@@ -80,7 +80,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="titlepage text_align_center">
-                        <h2>ITC System for World Business </h2>
+                        <h2 style="text-align: center; margin-bottom:50px;">ITC System for World Business </h2>
                      </div>
                   </div>
                </div>
@@ -228,6 +228,7 @@
                      </div>
                   </div>
                </div>
+               <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
             </div>
          </div>
     <!-- Footer Start -->

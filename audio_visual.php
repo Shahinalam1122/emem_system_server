@@ -21,7 +21,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase animated bounceInDown"></h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">ITC System for World Business</h1>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Audio Visual System for World Business</h1>
                             <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
                             <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>

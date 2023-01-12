@@ -1,21 +1,19 @@
 <section class="">
     <div class="container1">
-        <h1 class="text-uppercase text-center">OUR BRANDS</h1><br>
+        <h1 class="text-uppercase text-center">OUR BRANDS</h1>
+        <br>
         <div class=" pabx-0 py-3">
             <div class="me-3 pabx-1 ">
-                <a href="https://panasonic.net/cns/projector/" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
-
+                <a href="https://panasonic.net/cns/projector/" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
             </div>
             <div class="mx-3 pabx-1">
-                <a href="https://www.absen.com/" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Absen</a>
+                <a href="https://www.absen.com/" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Absen</a>
             </div>
 
             <div class="mx-3 pabx-1">
                 <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Other</a>
             </div>
-
         </div>
-
     </div>
 </section>
 
@@ -25,17 +23,14 @@
             <div class="card h-100">
                 <img src="img/pp1.png" class="card-img-top" alt="...">
                 <div class="card-body">
-
-                    <p class="card-text"> Large-Venue</p>
+                    <p class="card-text">Large-Venue</p>
                 </div>
-
             </div>
         </div>
         <div class="col-md-2">
             <div class="card h-100">
                 <img src="img/pp2.png" class="card-img-top" alt="...">
                 <div class="card-body">
-
                     <p class="card-text">Installation</p>
                 </div>
 
@@ -45,7 +40,6 @@
             <div class="card h-100">
                 <img src="img/pp3.png" class="card-img-top" alt="...">
                 <div class="card-body">
-
                     <p class="card-text">Portable</p>
                 </div>
 
@@ -64,9 +58,8 @@
             <div class="card h-100">
                 <img src="img/pp5.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <p class="card-text"> Wireless
-                        Presentation
-                        System</p>
+                    <p class="card-text">
+                        Wireless Presentation System</p>
                 </div>
 
             </div>
@@ -75,11 +68,9 @@
             <div class="card h-100">
                 <img src="img/pp6.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <p class="card-text"> 360 degree
-                        camera
-                        speakerphone</p>
+                    <p class="card-text">
+                        360 degree camera speakerphone</p>
                 </div>
-
             </div>
         </div>
     </div>
@@ -101,7 +92,8 @@
                                         <img src="img/pp10.jpg" class="" alt="" />
                                     </div>
                                     <div class="text-center">
-                                        <a href="#"> MUSEUM/Exhibition</a>
+                                        <a href="#">
+                                            MUSEUM/Exhibition</a>
                                         <h3>Portugal Pavilion Expo 2022 Dubai (UAE)</h3>
                                     </div>
                                 </div>
@@ -115,7 +107,8 @@
                                         <img src="img/pp8.jpg" class="" alt="" />
                                     </div>
                                     <div class="text-center">
-                                        <a href="#"> MUSEUM/Exhibition</a>
+                                        <a href="#">
+                                            MUSEUM/Exhibition</a>
                                         <h3>Thailand Pavilion Expo 2022 Dubai (UAE)</h3>
                                     </div>
                                 </div>
@@ -123,12 +116,12 @@
                             <div class="col-md-6">
                                 <div class="card">
 
-
                                     <div class="card">
                                         <img src="img/pp9.jpg" class="" alt="" />
                                     </div>
                                     <div class="text-center">
-                                        <a href="#"> MUSEUM/Exhibition</a>
+                                        <a href="#">
+                                            MUSEUM/Exhibition</a>
                                         <h3>Hungaey Pavilion Expo 2022 Dubai (UAE)</h3>
                                     </div>
                                 </div>
@@ -141,7 +134,8 @@
                                         <img src="img/pp10.jpg" class="" alt="" />
                                     </div>
                                     <div class="text-center">
-                                        <a href="#"> MUSEUM/Exhibition</a>
+                                        <a href="#">
+                                            MUSEUM/Exhibition</a>
                                         <h3>France Pavilion Expo 2022 Dubai (UAE)</h3>
                                     </div>
                                 </div>
@@ -163,15 +157,11 @@
                                     <img src="img/pp11.png" class="" alt="">
                                 </div>
                             </div>
-
                         </div>
-
                     </div>
                 </div>
-
             </div>
-
-
         </div>
+        <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
     </div>
 </section>

@@ -4,7 +4,7 @@
                 <h1 class="display-1 text-white animated zoomIn">About Us</h1>
                 <a href="" class="h4 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="" class="h4 text-white">About</a>
+                <a href="" class="h4 text-white">About Us</a>
             </div>
         </div>
 </div>

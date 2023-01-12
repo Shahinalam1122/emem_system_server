@@ -20,8 +20,8 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase animated bounceInDown">Choose the one that's right for you</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Security System</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Smart Security System</h1>
+                            <a href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
                             <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>

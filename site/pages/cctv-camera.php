@@ -4,8 +4,8 @@
             <div class="container-max">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="titlepage text_align_center">
-                            <h2>Our CCTV Cameras</h2>
+                        <div class="titlepage text-center">
+                            <h2 style="margin-bottom:60px;">Our CCTV Cameras</h2>
                         </div>
                     </div>
                 </div>
@@ -76,13 +76,14 @@
                             <a class="read_more" href="cameras.html">Buy Now</a>
                         </div>
                     </div>
-                    <div class="col-md-12">
+                    <!-- <div class="col-md-12">
                         <div class="see_camera">
-                            <a class="read_more" href="cameras.html">See More</a>
+                            <a class="read_more" href="cctv-camera.php">See More</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
+        <a style="margin-top: 50px;" href="contact.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
     </div>
 </div>

@@ -79,18 +79,18 @@
                     <p class="text-dark"><b>Rugged Computing and digital devices etc.</b></p>
                 </div>
                 <div>
-                    <h3 class="text-center mb-5"><u>BOARD OF DIRECTORS:</u></h3>
+                    <h3 class="text-center mb-5"><u>BOARD OF DIRECTORS</u></h3>
                     <p class="text-dark">EMEM SYSTEMS LIMITED BRINGS TOGETHER A TEAM OF TECHNOLOGY AND BUSINESS
                         VISIONARIES WHO STEER THE ORGANIZATION TOWARDS ITS ULTIMATE GOAL - TO PROVIDE
                         SOLUTIONS TO CUSTOMERS TO ENABLE THEM TO ACHIEVE EXCELLENCE AND SUSTAINABLE
                         COMPETITIVE EDGE.</p>
-                        <li class="text-dark"><b>ISPAHANI, CHAIRMAN MIRZA SALMAN</b></li>
-                        <li class="text-dark"><b>MIRZA SHAKIR ISPAHANI, MANAGING DIRECTOR</b></li>
+                        <li class="text-dark"><b>MIRZA SALMAN, CHAIRMAN, ISPAHANI  </b></li>
+                        <li class="text-dark"><b>MIRZA SHAKIR, MANAGING DIRECTOR, ISPAHANI </b></li>
                         <li class="text-dark"><b>SYED RUHUL HUQ, DIRECTOR</b></li>
                         <li class="text-dark"><b>SYED SAMIUL HUQ, DIRECTOR</b></li>
                 </div>
                 <div>
-                    <h3 class="text-center mb-5"><u>PHILOSOPHY:</u></h3>
+                    <h3 class="text-center mb-5"><u>PHILOSOPHY</u></h3>
                     <p class="text-dark">We believe in Relationship, Trust, Delivery and Service. Our goal is to fulfill clients’ ICT needs
                         in a cost effective way through our dedicated and experienced professionals. We have a
                         reputation of delivering solutions to our clients proficiently to keep the cost of the project
@@ -99,7 +99,7 @@
                         goals and /or provide a competitive advantage for our clients.</p>
                 </div>
                 <div>
-                    <h3 class="text-center mb-5"><u>STRATEGIC ALLIANCES:</u></h3>
+                    <h3 class="text-center mb-5"><u>STRATEGIC ALLIANCES</u></h3>
                     <p class="text-dark">Our partnership with key technology leaders has developed a unique expertise in our ability to deliver
                         cutting edge solutions. We are able to successfully integrate the most current technologies for both
                         wired and wireless LAN/WAN environments. EMEM Systems Limited has partnered with world class

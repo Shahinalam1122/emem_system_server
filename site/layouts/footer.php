@@ -23,7 +23,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-white mb-4">Get In Touch</h3>
-                <p class="mb-2"><i class="bi bi-geo-alt text-primary me-2"></i> House# 41 (2nd Foor), Road# 7, Block: F Banani, Dhaka-1213,Bangladesh.</p>
+                <p class="mb-2" style="text-align: left;"><i class="bi bi-geo-alt text-primary me-2"></i> House# 41 (2nd Foor), Road# 7, Block: F Banani, Dhaka-1213,Bangladesh.</p>
                 <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>info@ememsystems.net</p>
                 <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>(880-2)09666707070</p>
             </div>

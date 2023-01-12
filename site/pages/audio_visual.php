@@ -1,13 +1,16 @@
 <section class="">
             <div class="container1">
-                <h1 class="text-uppercase text-center">Panasonic</h1><br>
+                <h1 class="text-uppercase text-center">OUR BRANDS</h1><br>
                 <div class=" pabx-0 py-3">
-                    <div class="mx-3 pabx-1">
-                        <a href="audio_ict1.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">ITC Tech</a>
+                    <div class="mx-3">
+                        <a href="audio_visual.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
+                    </div>
+                    <div class="mx-3">
+                        <a href="audio_ict1.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">ITC Tech</a>
                     </div>
                         
-                        <div class="mx-3 pabx-1">
-                            <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Other</a>
+                        <div class="mx-3">
+                            <a href="contact.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Other</a>
                         </div>
                     
                 </div>
@@ -130,5 +133,6 @@
               </div>
               
             </div>
+            <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
         </div>
     </div>

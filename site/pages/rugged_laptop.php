@@ -1,15 +1,13 @@
 <section class="">
     <div class="container1">
-        <h1 class="text-uppercase text-center">Rugged Computers</h1><br>
+        <h1 class="text-uppercase text-center">OUR BRANDS</h1><br>
         <div class=" pabx-0 py-3">
+        <div class="mx-3 pabx-1">
+                <a href="ru_panssonic.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
+            </div>
             <div class="me-3 pabx-1 ">
-                <a href="ru_durabook.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Durabook</a>
-
+                <a href="ru_durabook.php" target="_blank" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Durabook</a>
             </div>
-            <div class="mx-3 pabx-1">
-                <a href="ru_panssonic.html" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Panasonic</a>
-            </div>
-
             <div class="mx-3 pabx-1">
                 <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Other</a>
             </div>
@@ -80,5 +78,6 @@
             </div>
 
         </div>
+        <a style="margin-top:50px;" href="get_quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact Seller</a>
     </div>
 </div>
